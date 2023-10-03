@@ -5,7 +5,7 @@ Hello world!
 
 ---
 
-If you wanna see a *super* **secret** ***SPECIAL PAGE***, go [here](https://minteaaliens.github.io/cse15l-lab-reports/lab1.md).
+If you wanna see a *super* **secret** ***SPECIAL PAGE***, go [here](https://minteaaliens.github.io/cse15l-lab-reports/lab1).
 
 ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvariety.com%2F2021%2Fdigital%2Fnews%2Frick-astley-never-gonna-give-you-up-1-billion-youtube-views-1235030404%2F&psig=AOvVaw2RSxs-Xn727fv9K_X7VVD0&ust=1696376734218000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCIjdxPfF2IEDFQAAAAAdAAAAABAE)
 
