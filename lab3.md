@@ -45,6 +45,8 @@ Non-Failure-inducing test:
     }
 ```
 
+![Image](Lab3Images/SC1.png)
+
 Code before fixing bug:
 ```
 import java.util.ArrayList;
