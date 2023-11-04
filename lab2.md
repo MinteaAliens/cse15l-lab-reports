@@ -27,7 +27,7 @@ Url Suffix: `/add-message?s=This is Lauren's Lab Report`
 ## Part 2
 
 ![Image](Lab2Images/SC4.png)
-![Image](Lab2Images/SC5.png)
+![Image](Lab2Images/SC7.png)
 ![Image](Lab2Images/SC6.png)
 
 ---
