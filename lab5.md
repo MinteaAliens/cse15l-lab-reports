@@ -5,6 +5,7 @@
 ## Part 1: Debugging Scenario
 
 **Student Jane:**
+![Image](Lab10Images/SC1.png)
 I just finished lab3 and I was getting tired of typing everything all the time... so I made a bash script! I have it compile everything and then run the tests one by one, but for some reason I am stuck in an infinite loop I think? It won't finish the bash script and gets stuck somewhere, but despite looking everywhere through my code I can't find anything that would make it loop like this. I'm genuinely confused and I think I might be missing the problem because there are so many files that I wrote tests for and so many lines of code.
 
 **TA:**
@@ -13,6 +14,7 @@ This is why we recommend you write your code incrementally. When you write too m
 *What fixed the bug*
 
 **Student Jane**:
+![Image](Lab7Images/SC2.png)
 I definitely learned my lesson about incremental coding. I put echo statements after each run statement in my bash script and found out it was my LinkedListExamples and LinkedListTest that was giving problems. I then commented out the entirety of my LinkedListTest and saw that it would run. So I incrementally readded each test until I got the same symptom I experienced earlier. I saw that it was my toString() portion. But I couldn't figure out what... so I added another toString() test for an empty list and that worked. The only difference between that empty list toString() test and the test I had previously was that the original had append. Turns out, my append() function was buggy! Thank you for the help!
 
 ```
